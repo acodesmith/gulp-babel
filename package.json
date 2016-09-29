@@ -1,0 +1,24 @@
+{
+  "name": "gulp-babel-example",
+  "version": "1.0.0",
+  "description": "Gulp with Babel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acodesmith/gulp-babel.git"
+  },
+  "author": "ACODESMITH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acodesmith/gulp-babel/issues"
+  },
+  "homepage": "https://github.com/acodesmith/gulp-babel#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.16.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2"
+  }
+}
